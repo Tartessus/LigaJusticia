@@ -9,3 +9,8 @@ Podemos hacer lo que queramos en este repositorio
 ### Github
 
 Cambios realizados en Github.com
+
+
+## Trabajo
+
+Seguimos trabajando (clone-local)
